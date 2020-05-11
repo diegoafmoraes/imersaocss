@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+ /* background: rgba(35, 150, 18, 1); */
+  background-image:url('https://comeceodiafeliz.com.br/assets/images/background/images/01.jpg');
+  background-size: auto 100vw;
+  height: 100vh;
+}
+.menu {
+  background-color: white;
+  border: 3px dashed #00C;
+  border-radius: 15px;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: Verdana;
+  color: #FFF;
+}
+h1.titulo {
+  text-align: center;
+  font-size: 2em;
+}
+h2.sub-titulo{
+    font-size: 1.5em;
+}
+.titulo, .sub-titulo{
+  color: #whitesmoke;
+}
+a {
+  text-decoration: none;
+  font-family: Verdana;
+}
+a:hover {
+  text-decoration: underline;
+  color: #7AA;
+  font-weight: bold;
+}
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+  margin-left: -50px;
+}
+.menu ul li {
+  list-style: none;
+}
