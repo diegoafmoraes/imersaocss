@@ -70,7 +70,7 @@ footer#contato {
  width: 95%;
 }
 
-footer#contato div#footer div#icons {
+footer#contato div#footer {
  min-height: 100vh;
  border-top: 3px dashed #00C;
  text-align: center;
