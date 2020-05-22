@@ -16,6 +16,17 @@ h1,h2,h3,h4,h5,h6 {
   font-family: Verdana;
   color: #FFF;
 }
+h1.titulo {
+  text-align: center;
+  font-size: 2em;
+}
+h2.sub-titulo{
+    font-size: 1.5em;
+}
+.titulo, .sub-titulo{
+  color: whitesmoke;
+}
+
 .titulo {
   transform: scale(0.2) translateY(50vh);
   opacity: 0;
@@ -32,16 +43,7 @@ h1,h2,h3,h4,h5,h6 {
  }
 }
 
-h1.titulo {
-  text-align: center;
-  font-size: 2em;
-}
-h2.sub-titulo{
-    font-size: 1.5em;
-}
-.titulo, .sub-titulo{
-  color: #whitesmoke;
-}
+
 a {
   text-decoration: none;
   font-family: Verdana;
