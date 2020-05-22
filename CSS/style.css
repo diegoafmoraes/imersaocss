@@ -45,7 +45,6 @@ h2.sub-titulo{
  }
 }
 
-
 a {
   text-decoration: none;
   font-family: Verdana;
@@ -64,8 +63,8 @@ a:hover {
   list-style: none;
 }
 
-footer div#footer {
-/*  position: absolute;  */
+#footer {
+  position: absolute; 
   left: 0;
   bottom: 0;
   width: 100%;
