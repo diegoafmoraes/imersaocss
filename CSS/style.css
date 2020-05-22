@@ -64,8 +64,7 @@ a:hover {
   list-style: none;
 }
 
-footer#contato,
-footer#contato div#footer {
+footer#contato {
  position: absolute;
  bottom: 0;
  width: 95%;
