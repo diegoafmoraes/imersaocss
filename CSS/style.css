@@ -47,10 +47,12 @@ a:hover {
 footer {
  position: absolute;
  bottom: 0;
+ width: 50%;
 }
 
 footer #icons{
  border-top: 3px dashed #00C;
  width: 50%;
+ text-align: center;
  margin: auto;
 }
