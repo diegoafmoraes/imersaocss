@@ -65,19 +65,19 @@ a:hover {
 }
 
 footer {
- min-height: 100vh;
+ position: absolute;
+ bottom: 0;
 }
 
 #footer {
- position: absolute;
- bottom: 0;
  width: 95%;
  margin: auto;
 }
 
-footer #icons{
+
+#footer #icons { 
+ min-height: 100vh;
  border-top: 3px dashed #00C;
- width: 80%;
  text-align: center;
  margin: auto;
 }
