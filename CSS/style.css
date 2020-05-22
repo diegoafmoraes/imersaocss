@@ -64,26 +64,26 @@ a:hover {
   list-style: none;
 }
 
-footer#contato {
+footer {
  position: absolute;
  bottom: 0;
  width: 95%;
 }
 
-footer#contato div#footer {
+footer div#footer {
  min-height: 100vh;
  border-top: 3px dashed #00C;
  text-align: center;
  margin: auto;
 }
 
-footer#contato div#footer div#icons a{
+footer div#footer div#icons a{
  font-sizze: 4em;
  text-decoration: none;
  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
 }
 
-footer#contato div#footer div#icons a i 
+footer div#footer div#icons a i 
 {
  font-size: 4em;
  text-decoration: none;
@@ -91,6 +91,6 @@ footer#contato div#footer div#icons a i
  transition: transform 500ms;
 }
 
-footer#contato div#footer div#icons a i:hover {
+footer div#footer div#icons a i:hover {
  transform: scale(1.2);
 }
