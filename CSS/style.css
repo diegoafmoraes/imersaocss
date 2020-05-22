@@ -65,15 +65,14 @@ a:hover {
 }
 
 footer {
- position: absolute;
- bottom: 0;
+ width: 95%;
 }
 
 #footer {
- width: 95%;
+ position: absolute;
+ bottom: 0;
  margin: auto;
 }
-
 
 #footer #icons { 
  min-height: 100vh;
