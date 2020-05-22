@@ -67,4 +67,9 @@ footer #icons a i {
  font-size: 4em;
  text-decoration: none;
  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+ transition: transform 500ms;
+}
+
+footer #icons a i:hover {
+ transform: scale(1.2);
 }
