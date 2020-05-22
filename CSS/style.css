@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5,h6 {
   font-family: Verdana;
   color: #FFF;
 }
-.identif {
+.titulo {
   transform: scale(0.2) translateY(50vh);
   opacity: 0;
   animation: 1s ease 2s annimacaoTitulo forwards;
