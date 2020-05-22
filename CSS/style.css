@@ -68,10 +68,10 @@ footer#contato {
  position: absolute;
  bottom: 0;
  width: 95%;
- margin: auto;
 }
 
-div#footer div#icons { 
+/*
+footer#contato div#footer div#icons {
  min-height: 100vh;
  border-top: 3px dashed #00C;
  text-align: center;
@@ -95,3 +95,4 @@ footer#contato div#footer div#icons a i
 footer#contato div#footer div#icons a i:hover {
  transform: scale(1.2);
 }
+*/
