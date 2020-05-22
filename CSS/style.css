@@ -43,3 +43,9 @@ a:hover {
 .menu ul li {
   list-style: none;
 }
+
+footer {
+ position: absolute;
+ bottom: 0;
+ border-top: 1px dashed #EEEEEE; 
+}
