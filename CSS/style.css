@@ -47,5 +47,7 @@ a:hover {
 footer {
  position: absolute;
  bottom: 0;
- border-top: 1px dashed #EEEEEE; 
+ border-top: 1px dashed #EEEEEE;
+ width: 50%;
+ margin: auto;
 }
