@@ -62,3 +62,9 @@ footer #icons a{
  text-decoration: none;
  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
 }
+
+footer #icons a i {
+ font-size: 4em;
+ text-decoration: none;
+ text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
