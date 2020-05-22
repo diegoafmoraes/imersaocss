@@ -63,21 +63,20 @@ a:hover {
   list-style: none;
 }
 
-#footer {
-  position: absolute; 
-  left: 0;
+div#footer {
+  position: absolute;
   bottom: 0;
   width: 100%;
   heigth: auto;
   text-align: center;
 }
 
-div#footer div#icons a{
+div#icons a{
  text-decoration: none;
  text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
 }
 
-div#footer div#icons a i 
+div#icons a i 
 {
  font-size: 2em;
  text-decoration: none;
@@ -85,6 +84,6 @@ div#footer div#icons a i
  transition: transform 500ms;
 }
 
-div#footer div#icons a i:hover {
+div#icons a i:hover {
  transform: scale(1.2);
 }
